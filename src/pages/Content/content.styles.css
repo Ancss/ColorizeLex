@@ -1,87 +1,87 @@
 /* Noun */
-.ext__Noun { background-color: #FFD70011; } /* Golden yellow */
-.ext__Singular { background-color: #FFD70011; } /* Golden yellow */
-.ext__Person { background-color: #FF69B411; } /* Pink */
-.ext__FirstName { background-color: #00FFFF11; } /* Cyan */
-.ext__MaleName { background-color: #4682B411; } /* Steel blue */
-.ext__FemaleName { background-color: #FFB6C111; } /* Light pink */
-.ext__LastName { background-color: #8A2BE211; } /* Blue violet */
-.ext__Place { background-color: #87CEEB11; } /* Sky blue */
-.ext__Country { background-color: #2E8B5711; } /* Sea green */
-.ext__City { background-color: #FF634711; } /* Tomato */
-.ext__Region { background-color: #9932CC11; } /* Dark orchid */
-.ext__Address { background-color: #BDB76B11; } /* Dark khaki */
-.ext__Organization { background-color: #FF450011; } /* Orange red */
-.ext__SportsTeam { background-color: #DC143C11; } /* Crimson */
-.ext__Company { background-color: #00FF0011; } /* Lime */
-.ext__School { background-color: #FFA07A11; } /* Light salmon */
-.ext__ProperNoun { background-color: #FFDAB911; } /* Peach puff */
-.ext__Honorific { background-color: #CD5C5C11; } /* Indian red */
-.ext__Plural { background-color: #80008011; } /* Purple */
-.ext__Uncountable { background-color: #70809011; } /* Slate gray */
-.ext__Pronoun { background-color: #6495ED11; } /* Cornflower blue */
-.ext__Actor { background-color: #556B2F11; } /* Dark olive green */
-.ext__Activity { background-color: #FF8C0011; } /* Dark orange */
-.ext__Unit { background-color: #8B008B11; } /* Dark magenta */
-.ext__Demonym { background-color: #00808011; } /* Teal */
-.ext__Possessive { background-color: #B8860B11; } /* Dark golden rod */
+.ext__Noun { background-color: #FFD70033; } /* Golden yellow */
+.ext__Singular { background-color: #FFD70033; } /* Golden yellow */
+.ext__Person { background-color: #FF69B433; } /* Pink */
+.ext__FirstName { background-color: #00FFFF33; } /* Cyan */
+.ext__MaleName { background-color: #4682B433; } /* Steel blue */
+.ext__FemaleName { background-color: #FFB6C133; } /* Light pink */
+.ext__LastName { background-color: #8A2BE233; } /* Blue violet */
+.ext__Place { background-color: #87CEEB33; } /* Sky blue */
+.ext__Country { background-color: #2E8B5733; } /* Sea green */
+.ext__City { background-color: #FF634733; } /* Tomato */
+.ext__Region { background-color: #9932CC33; } /* Dark orchid */
+.ext__Address { background-color: #BDB76B33; } /* Dark khaki */
+.ext__Organization { background-color: #FF450033; } /* Orange red */
+.ext__SportsTeam { background-color: #DC143C33; } /* Crimson */
+.ext__Company { background-color: #00FF0033; } /* Lime */
+.ext__School { background-color: #FFA07A33; } /* Light salmon */
+.ext__ProperNoun { background-color: #FFDAB933; } /* Peach puff */
+.ext__Honorific { background-color: #CD5C5C33; } /* Indian red */
+.ext__Plural { background-color: #80008033; } /* Purple */
+.ext__Uncountable { background-color: #70809033; } /* Slate gray */
+.ext__Pronoun { background-color: #6495ED33; } /* Cornflower blue */
+.ext__Actor { background-color: #556B2F33; } /* Dark olive green */
+.ext__Activity { background-color: #FF8C0033; } /* Dark orange */
+.ext__Unit { background-color: #8B008B33; } /* Dark magenta */
+.ext__Demonym { background-color: #00808033; } /* Teal */
+.ext__Possessive { background-color: #B8860B33; } /* Dark golden rod */
 
 /* Verb */
-.ext__Verb { background-color: #FF69B411; } /* Pink */
-.ext__PresentTense { background-color: #FFD70011; } /* Golden yellow */
-.ext__Infinitive { background-color: #FF69B411; } /* Pink */
-.ext__Gerund { background-color: #00FFFF11; } /* Cyan */
-.ext__PastTense { background-color: #4682B411; } /* Steel blue */
-.ext__PerfectTense { background-color: #FFB6C111; } /* Light pink */
-.ext__FuturePerfect { background-color: #8A2BE211; } /* Blue violet */
-.ext__Pluperfect { background-color: #87CEEB11; } /* Sky blue */
-.ext__Copula { background-color: #2E8B5711; } /* Sea green */
-.ext__Modal { background-color: #FF634711; } /* Tomato */
-.ext__Participle { background-color: #9932CC11; } /* Dark orchid */
-.ext__Particle { background-color: #BDB76B11; } /* Dark khaki */
-.ext__PhrasalVerb { background-color: #FF450011; } /* Orange red */
+.ext__Verb { background-color: #FF69B433; } /* Pink */
+.ext__PresentTense { background-color: #FFD70033; } /* Golden yellow */
+.ext__Infinitive { background-color: #FF69B433; } /* Pink */
+.ext__Gerund { background-color: #00FFFF33; } /* Cyan */
+.ext__PastTense { background-color: #4682B433; } /* Steel blue */
+.ext__PerfectTense { background-color: #FFB6C133; } /* Light pink */
+.ext__FuturePerfect { background-color: #8A2BE233; } /* Blue violet */
+.ext__Pluperfect { background-color: #87CEEB33; } /* Sky blue */
+.ext__Copula { background-color: #2E8B5733; } /* Sea green */
+.ext__Modal { background-color: #FF634733; } /* Tomato */
+.ext__Participle { background-color: #9932CC33; } /* Dark orchid */
+.ext__Particle { background-color: #BDB76B33; } /* Dark khaki */
+.ext__PhrasalVerb { background-color: #FF450033; } /* Orange red */
 
 /* Value */
-.ext__Ordinal { background-color: #DC143C11; } /* Crimson */
-.ext__Cardinal { background-color: #00FF0011; } /* Lime */
-.ext__RomanNumeral { background-color: #FFA07A11; } /* Light salmon */
-.ext__Multiple { background-color: #FFDAB911; } /* Peach puff */
-.ext__Fraction { background-color: #CD5C5C11; } /* Indian red */
-.ext__TextValue { background-color: #80008011; } /* Purple */
-.ext__NumericValue { background-color: #70809011; } /* Slate gray */
-.ext__Percent { background-color: #6495ED11; } /* Cornflower blue */
-.ext__Money { background-color: #556B2F11; } /* Dark olive green */
+.ext__Ordinal { background-color: #DC143C33; } /* Crimson */
+.ext__Cardinal { background-color: #00FF0033; } /* Lime */
+.ext__RomanNumeral { background-color: #FFA07A33; } /* Light salmon */
+.ext__Multiple { background-color: #FFDAB933; } /* Peach puff */
+.ext__Fraction { background-color: #CD5C5C33; } /* Indian red */
+.ext__TextValue { background-color: #80008033; } /* Purple */
+.ext__NumericValue { background-color: #70809033; } /* Slate gray */
+.ext__Percent { background-color: #6495ED33; } /* Cornflower blue */
+.ext__Money { background-color: #556B2F33; } /* Dark olive green */
 
 /* Date */
-.ext__Month { background-color: #FF8C0011; } /* Dark orange */
-.ext__WeekDay { background-color: #8B008B11; } /* Dark magenta */
-.ext__RelativeDay { background-color: #00808011; } /* Teal */
-.ext__Year { background-color: #B8860B11; } /* Dark golden rod */
-.ext__Duration { background-color: #FFD70011; } /* Golden yellow */
-.ext__Time { background-color: #FF69B411; } /* Pink */
-.ext__Holiday { background-color: #00FFFF11; } /* Cyan */
+.ext__Month { background-color: #FF8C0033; } /* Dark orange */
+.ext__WeekDay { background-color: #8B008B33; } /* Dark magenta */
+.ext__RelativeDay { background-color: #00808033; } /* Teal */
+.ext__Year { background-color: #B8860B33; } /* Dark golden rod */
+.ext__Duration { background-color: #FFD70033; } /* Golden yellow */
+.ext__Time { background-color: #FF69B433; } /* Pink */
+.ext__Holiday { background-color: #00FFFF33; } /* Cyan */
 
 /* Adjective */
-.ext__Adjective { background-color: #00FFFF11; } /* Cyan */
-.ext__Comparable { background-color: #4682B411; } /* Steel blue */
-.ext__Comparative { background-color: #FFB6C111; } /* Light pink */
-.ext__Superlative { background-color: #8A2BE211; } /* Blue violet */
+.ext__Adjective { background-color: #00FFFF33; } /* Cyan */
+.ext__Comparable { background-color: #4682B433; } /* Steel blue */
+.ext__Comparative { background-color: #FFB6C133; } /* Light pink */
+.ext__Superlative { background-color: #8A2BE233; } /* Blue violet */
 
 /* Others */
-.ext__Contraction { background-color: #87CEEB11; } /* Sky blue */
-.ext__Adverb { background-color: #2E8B5711; } /* Sea green */
-.ext__Currency { background-color: #FF634711; } /* Tomato */
-.ext__Determiner { background-color: #9932CC11; } /* Dark orchid */
-.ext__Conjunction { background-color: #BDB76B11; } /* Dark khaki */
-.ext__Preposition { background-color: #FF450011; } /* Orange red */
-.ext__QuestionWord { background-color: #DC143C11; } /* Crimson */
-.ext__Pronoun { background-color: #00FF0011; } /* Lime */
-.ext__Expression { background-color: #FFA07A11; } /* Light salmon */
-.ext__Abbreviation { background-color: #CD5C5C11; } /* Indian red */
-.ext__Url { background-color: #80008011; } /* Purple */
-.ext__HashTag { background-color: #70809011; } /* Slate gray */
-.ext__PhoneNumber { background-color: #6495ED11; } /* Cornflower blue */
-.ext__AtMention { background-color: #556B2F11; } /* Dark olive green */
-.ext__Auxiliary { background-color: #FF8C0011; } /* Dark orange */
-.ext__Negative { background-color: #8B008B11; } /* Dark magenta */
-.ext__Acronym { background-color: #00808011; } /* Teal */
+.ext__Contraction { background-color: #87CEEB33; } /* Sky blue */
+.ext__Adverb { background-color: #2E8B5733; } /* Sea green */
+.ext__Currency { background-color: #FF634733; } /* Tomato */
+.ext__Determiner { background-color: #9932CC33; } /* Dark orchid */
+.ext__Conjunction { background-color: #BDB76B33; } /* Dark khaki */
+.ext__Preposition { background-color: #FF450033; } /* Orange red */
+.ext__QuestionWord { background-color: #DC143C33; } /* Crimson */
+.ext__Pronoun { background-color: #00FF0033; } /* Lime */
+.ext__Expression { background-color: #FFA07A33; } /* Light salmon */
+.ext__Abbreviation { background-color: #CD5C5C33; } /* Indian red */
+.ext__Url { background-color: #80008033; } /* Purple */
+.ext__HashTag { background-color: #70809033; } /* Slate gray */
+.ext__PhoneNumber { background-color: #6495ED33; } /* Cornflower blue */
+.ext__AtMention { background-color: #556B2F33; } /* Dark olive green */
+.ext__Auxiliary { background-color: #FF8C0033; } /* Dark orange */
+.ext__Negative { background-color: #8B008B33; } /* Dark magenta */
+.ext__Acronym { background-color: #00808033; } /* Teal */
