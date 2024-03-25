@@ -39,9 +39,9 @@ function processTextNode(node) {
       }
       const replacedText = text.replaceAll(
         new RegExp(`\\b${term.text}\\b`, 'ig'),
-        `<span class="${tags.map((tag) => `ext__${tag}`).join(' ')}"> ${
+        `<span class="${tags.map((tag) => `ext__${tag}`).join(' ')}">${
           term.text
-        } </span>`
+        }&nbsp;</span>`
       );
       const tempNode = document.createElement('span');
       tempNode.innerHTML = replacedText;
