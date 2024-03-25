@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "ColorizeLex",
+  "version": "0.0。1",
+  "description": "ColorizeLex is a browser extension designed to enhance the readability of English articles by visually distinguishing different parts of speech. ",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/Ancss/ColorizeLex.git"
   },
   "scripts": {
     "build": "node utils/build.js",
